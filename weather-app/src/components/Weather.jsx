@@ -9,7 +9,7 @@ const Weather = () => {
   const [selectedDay, setSelectedDay] = useState(0);
   const [isCelsius, setIsCelsius] = useState(true);
 
-  const apiKey = 'ae209b8b701cfc13371ce269d1e9df2c';
+  const apiKey = 'Your ApiKey';
   const unit = isCelsius ? 'metric' : 'imperial';
   const url = `https://api.openweathermap.org/data/2.5/forecast?q=${location}&appid=${apiKey}&units=${unit}`;
 
