@@ -96,13 +96,13 @@ This is a simple single-page weather forecast application that allows users to c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yo/weather-forecast-app.git
+   git clone https://github.com/yo/style-dot-me.git
 
    Navigate to the project directory:
 
 2 .bash
 
-cd weather-forecast-app
+cd weather-app
 Install dependencies:
 
 3 bash
@@ -119,8 +119,6 @@ http://weather-app-shaurya.netlify.app/
 You can see a live demo of the app here.
 
 Screenshots
-![WhatsApp Image 2024-01-13 at 1 34 17 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/14cfabee-9ed3-45e4-a1a1-1db2740b19ef)
-![WhatsApp Image 2024-01-13 at 1 34 18 PM (1)](https://github.com/shauryadhaka0027/useEffect/assets/138813918/1beef6ce-3636-42cd-978e-eb68fe2de0d0)
-![WhatsApp Image 2024-01-13 at 1 34 18 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/7fbacdae-202a-419d-94bd-b64c11f95055)
-
-
+![WhatsApp Image 2024-01-13 at 1 37 55 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/fc40877c-a6be-4162-a21f-25eec36267a9)
+![WhatsApp Image 2024-01-13 at 1 37 40 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/ca31c623-4cd4-48b6-9db9-15af3fcd62f6)
+![WhatsApp Image 2024-01-13 at 1 37 16 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/b42e856a-e8b7-4c77-8cb3-16a3c79bf309)
