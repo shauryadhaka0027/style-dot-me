@@ -119,8 +119,7 @@ http://weather-app-shaurya.netlify.app/
 You can see a live demo of the app here.
 
 Screenshots
-![WhatsApp Image 2024-01-13 at 1 37 55 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/fc40877c-a6be-4162-a21f-
-25eec36267a9)
+
 
 ![WhatsApp Image 2024-01-13 at 1 37 40 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/ca31c623-4cd4-48b6-9db9-15af3fcd62f6)
 
