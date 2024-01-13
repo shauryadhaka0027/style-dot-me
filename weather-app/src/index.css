@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+body{
+  
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+background: url('https://res.cloudinary.com/practicaldev/image/fetch/s--Erne8GO---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vw1tk0edx3e63tfusra3.jpg')no-repeat center center/cover;
+}
