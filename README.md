@@ -47,7 +47,7 @@ This is a simple single-page weather forecast application that allows users to c
 1. Clone the repository:
 
    ```bash
-   git clone # Weather Forecast App
+   git clone # Weather App
 
 This is a simple single-page weather forecast application that allows users to check the current weather details and a 5-day forecast for a specific city.
 
@@ -119,6 +119,10 @@ http://weather-app-shaurya.netlify.app/
 You can see a live demo of the app here.
 
 Screenshots
-![WhatsApp Image 2024-01-13 at 1 37 55 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/fc40877c-a6be-4162-a21f-25eec36267a9)
+![WhatsApp Image 2024-01-13 at 1 37 55 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/fc40877c-a6be-4162-a21f-
+25eec36267a9)
+
 ![WhatsApp Image 2024-01-13 at 1 37 40 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/ca31c623-4cd4-48b6-9db9-15af3fcd62f6)
+
+
 ![WhatsApp Image 2024-01-13 at 1 37 16 PM](https://github.com/shauryadhaka0027/useEffect/assets/138813918/b42e856a-e8b7-4c77-8cb3-16a3c79bf309)
